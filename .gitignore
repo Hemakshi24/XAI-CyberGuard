@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE files
+.vscode/
+
+# Large datasets
+data/
+datasets/
+
+# Generated model and result files
+*.joblib
+*.pkl
+*.pickle
+
+# Operating system files
+.DS_Store
+Thumbs.db
